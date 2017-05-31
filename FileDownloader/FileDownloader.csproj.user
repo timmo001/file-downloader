@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartProgram>C:\Program Files %28x86%29\LANSA\X_WIN95\X_LANSA\execute\x_run.exe</StartProgram>
+    <StartArguments>FORM=ZZATTST7 LANG=NAT PART=DEV USER=QPGMR DBII=%2aNONE CMTH=T CDLL=LCOMGR32.DLL</StartArguments>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <StartWorkingDirectory>C:\Program Files %28x86%29\LANSA\X_Win95\X_Lansa\Execute</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
